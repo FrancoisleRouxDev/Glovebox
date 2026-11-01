@@ -1,0 +1,4 @@
+filename,make,model
+# Put photos in eval/images/ and add one row per photo. The rows below are examples:
+# red_mx5.jpg,Mazda,MX-5
+# street_golf.jpg,Volkswagen,Golf
